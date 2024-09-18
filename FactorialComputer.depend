@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721020674 source:c:\users\st tobiloba\desktop\c++\assignments\factorialcomputer\factorialcomputer\main.cpp
+	<iostream>
+	<iostream>
+	<cmath>
+
